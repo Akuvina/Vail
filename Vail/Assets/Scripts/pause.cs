@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class mouselock : MonoBehaviour {
+public class pause : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
